@@ -1,0 +1,30 @@
+/*last edited by Mason Fisher on 6/15/22*/
+.dopebackground {
+    background-color: rgb(216, 179, 250);
+}
+
+.common{
+    background-color: antiquewhite;
+    border: solid 2x rgb(236, 97, 236);
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+}
+
+.body{
+    left: 5px;
+    right: 5px;
+}
+
+.footer{
+    left: 5px;
+    right: 5px;
+    bottom: 20px;
+}
+
+.subheader{
+    float: right;
+}
